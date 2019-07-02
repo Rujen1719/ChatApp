@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="need_a_new_account">Need a new account?</string>
+    <string name="display_name">Display name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="log_out">Log Out</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="welcome_to_rujen_s_chat_app">Welcome to Rujen\'s Chat App</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_email">Your Email</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using Rujen\'s Chat App</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
